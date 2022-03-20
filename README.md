@@ -1,2 +1,2 @@
 # Sally
-# It is my first Calculator bot!
+# It is my first Calculator bot!:cool: :thumbsup:
